@@ -22,7 +22,7 @@ const {
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-const SITE_URL = 'https://cinflixhd.up.railway.app';
+const SITE_URL = 'https://flixstreamvf.up.railway.app';
 
 app.use(express.static(path.join(__dirname, 'public')));
 
